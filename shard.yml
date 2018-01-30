@@ -1,0 +1,9 @@
+name: spatch
+version: 0.1.0
+
+authors:
+  - Caleb Harrison <calebuharrison@gmail.com>
+
+crystal: 0.24.1
+
+license: MIT
